@@ -5,4 +5,4 @@ README.md
 
 [![Code qulaity](https://api.codiga.io/project/33192/score/svg)]
 
-[![code rating](https://api.codiga.io/project/33192/status/svg)]
+[!(https://api.codiga.io/project/33192/status/svg)]
